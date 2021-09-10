@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marcusfmm
-- 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning CSS, HTML
+- 👀 I’m interested in coding, bike riding and nature!
 
 
 <!---
